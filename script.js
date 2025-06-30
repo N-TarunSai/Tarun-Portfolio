@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             loadingOverlay.classList.add('active');
 
-            fetch('https://script.google.com/macros/s/AKfycbzdX252SyvpAFNybIW_Pjg8s8DrgA39MHePNrNqsD21LZmWKMpIuWjbWa2dhKcilmoTnQ/exec', {
+            fetch('https://script.google.com/macros/s/AKfycbwHIwUjshS9S-3VNE3KHeZ2KT8TlnNp1vXBo4lR4MEwY0XTTjN6ZsD6TH-RgTdwc5c_Lw/exec', {
                 method: 'POST',
                 mode: 'no-cors',
                 headers: {
